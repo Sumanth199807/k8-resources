@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: nginx-up
 
-  labesl:
+  labels:
     project: roboshop
     environment: dev
 
